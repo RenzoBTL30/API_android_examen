@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alum.fial7/AndroidStudioProjects/API_android/app/src/main/res/layout/activity_escuela.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/alum.fial7/AndroidStudioProjects/API_android/app/src/main/res/layout/activity_main.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/alum.fial7/AndroidStudioProjects/API_android/app/src/main/res/layout/content_main.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/alum.fial7/AndroidStudioProjects/API_android/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/alum.fial7/Desktop/Examen Parcial 1 - Moviles/API_android_examen/app/src/main/res/drawable/border.xml" value="0.1345" />
+        <entry key="..\:/Users/alum.fial7/Desktop/Examen Parcial 1 - Moviles/API_android_examen/app/src/main/res/drawable/border_input.xml" value="0.1" />
+        <entry key="..\:/Users/alum.fial7/Desktop/Examen Parcial 1 - Moviles/API_android_examen/app/src/main/res/layout/activity_buscar.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/alum.fial7/Desktop/Examen Parcial 1 - Moviles/API_android_examen/app/src/main/res/layout/activity_libro.xml" value="0.1" />
+        <entry key="..\:/Users/alum.fial7/Desktop/Examen Parcial 1 - Moviles/API_android_examen/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/alum.fial7/Desktop/Examen Parcial 1 - Moviles/API_android_examen/app/src/main/res/layout/content_main.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/alum.fial7/Desktop/Examen Parcial 1 - Moviles/API_android_examen/app/src/main/res/menu/menu_buscar.xml" value="0.32916666666666666" />
+        <entry key="..\:/Users/alum.fial7/Desktop/Examen Parcial 1 - Moviles/API_android_examen/app/src/main/res/menu/menu_main.xml" value="0.32916666666666666" />
+        <entry key="..\:/renzo/Para el examen de moviles del 13 de octubre/API_android/app/src/main/res/layout/activity_buscar.xml" value="0.14990942028985507" />
+        <entry key="..\:/renzo/Para el examen de moviles del 13 de octubre/API_android/app/src/main/res/layout/activity_main.xml" value="0.14990942028985507" />
+        <entry key="..\:/renzo/Para el examen de moviles del 13 de octubre/API_android/app/src/main/res/layout/activity_producto.xml" value="0.16666666666666666" />
+        <entry key="..\:/renzo/Para el examen de moviles del 13 de octubre/API_android/app/src/main/res/layout/content_main.xml" value="0.14990942028985507" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/API_android/app/src/main/res/layout/activity_buscar.xml" value="0.22" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/API_android/app/src/main/res/layout/activity_escuela.xml" value="0.14130434782608695" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/API_android/app/src/main/res/layout/activity_main.xml" value="0.11548913043478261" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/API_android/app/src/main/res/menu/menu_buscar.xml" value="0.1640625" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/API_android/app/src/main/res/menu/menu_main.xml" value="0.1640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
